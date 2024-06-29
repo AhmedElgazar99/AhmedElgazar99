@@ -14,7 +14,7 @@
 
 - 🔭 I'm currently working as an Backend Developer.
 - 👯 I'm eager to collaborate on projects that involve web development (especially using php(native),php/laravel and Angular). 
-- 🤔 I'm currently seeking to deepen my understanding of advanced machine learning algorithms and their practical applications.
+
 - 💬 Ask me about my experience with anything related to web development.
 - ⚡ Fun fact: I'm passionate about football tactics and data-driven scouting - I love exploring how data can enhance the beautiful game!
 
@@ -28,8 +28,7 @@
 <br/>
 
 #### Programming Languages:
-![php](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 ![c++](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=white)
@@ -45,10 +44,3 @@
 
 <br/>
 
-### 📈 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=X-Mumin&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-<a href="https://komarev.com/ghpvc/?username=X-Mumin&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=X-Mumin&style=for-the-badge">
-</a>
