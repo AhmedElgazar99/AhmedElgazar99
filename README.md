@@ -28,7 +28,8 @@
 
 #### Programming Languages:
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
-![c++](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel&logoColor=white)
+![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=white)
 
@@ -38,6 +39,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)
 
 #### DevOps & Tools:
+![PHPUNIT](https://img.shields.io/badge/-phpunit-05122A?style=flat&logo=phpunit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white)
 
