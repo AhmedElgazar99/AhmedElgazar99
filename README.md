@@ -12,11 +12,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working as an Backend Developer.
+- 🔭 I'm currently working as a Backend Developer.
 - 👯 I'm eager to collaborate on projects that involve web development (especially using php(native),php/laravel and Angular). 
 
 - 💬 Ask me about my experience with anything related to web development.
-- ⚡ Fun fact: I'm passionate about football tactics and data-driven scouting - I love exploring how data can enhance the beautiful game!
 
 <br/>
 
