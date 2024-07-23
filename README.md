@@ -28,6 +28,7 @@
 
 #### Programming Languages:
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
+![java](https://img.shields.io/badge/-JAva-05122A?style=flat&logo=java)
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel&logoColor=white)
 ![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
